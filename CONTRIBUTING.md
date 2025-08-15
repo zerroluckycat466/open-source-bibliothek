@@ -8,3 +8,7 @@ Danke für Ihr Interesse am Mitwirken im Open Source Bibliothek Projekt! Hier si
 4. **Teilen Sie Ihr Wissen:** Wenn Sie etwas über Open-Source-Projekte wissen, teilen Sie Ihre Kenntnisse in unserem Forum.
 
 Bitte stellen Sie sicher, dass Sie die Richtlinien für das Einreichen von Pull-Requests befolgen.
+
+### Coding Standards
+
+Stellen Sie sicher, dass Ihr Code den festgelegten Codierungsstandards entspricht, bevor Sie einen Pull-Request einreichen.
