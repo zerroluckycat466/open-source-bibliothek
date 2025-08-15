@@ -12,3 +12,7 @@ Bitte stellen Sie sicher, dass Sie die Richtlinien für das Einreichen von Pull-
 ### Coding Standards
 
 Stellen Sie sicher, dass Ihr Code den festgelegten Codierungsstandards entspricht, bevor Sie einen Pull-Request einreichen.
+
+### Kommunikation
+
+Halten Sie die Kommunikation respektvoll und sachlich. Feedback ist willkommen, also scheuen Sie sich nicht, Fragen zu stellen oder Verbesserungsvorschläge zu machen.
